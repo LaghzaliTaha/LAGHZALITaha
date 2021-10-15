@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**LaghzaliTaha/LAGHZALITaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Full Stack (Java EE / Javascript) developer.
 
-Here are some ideas to get you started:
+CEO @Digital squad 
+<img src="https://digitalsquad.ma/assets/images/squad.png" style="width: 50px;height:44.5px" alt="Logo" />
+    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    
+
+  
+## 🛠 Skills
+Front end development, UX/UI,  Functional Programming, Software Architecture
+
+  
+
+
+  
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-laghzali/)
+
+  
