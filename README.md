@@ -4,7 +4,7 @@ Full Stack (Java EE / Javascript) developer.
 
 CEO @Digital squad 
 
-<a _blank href="https://www.digitalsquad.ma"> <img src="https://digitalsquad.ma/assets/images/squad.png" style="width: 50px;height:44.5px" alt="Logo" /> <a/>
+<a target="_blank" href="https://www.digitalsquad.ma"> <img src="https://digitalsquad.ma/assets/images/squad.png" style="width: 50px;height:44.5px" alt="Logo" /> <a/>
     
    
 
