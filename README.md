@@ -14,7 +14,7 @@ Front end development, UX/UI,  Functional Programming, Software Architecture
 
 
   
-## 🔗 Links
+## 🔗 Get in touch
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-laghzali/)
 
   
